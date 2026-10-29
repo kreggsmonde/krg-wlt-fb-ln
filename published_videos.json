@@ -8,5 +8,15 @@
     "video_file": "podcast_ep1_20261026_052403.mp4",
     "thumbnail_file": "thumb_ep1_20261026_052403.jpg",
     "platform": "Local"
+  },
+  {
+    "episode": 2,
+    "topic": "Die Kraft der Verletzlichkeit: Mut zur Nähe in der Liebe",
+    "date": "2026-10-29T02:42:17.298225",
+    "duration_sec": 190.95,
+    "duration_min": 3.18,
+    "video_file": "podcast_ep2_20261029_024114.mp4",
+    "thumbnail_file": "thumb_ep2_20261029_024114.jpg",
+    "platform": "Facebook"
   }
 ]
