@@ -1,0 +1,26 @@
+# Environment variables & secrets
+.env
+*.env
+*.env.local
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Output and temporary rendering artifacts
+output/
+temp/
+*.mp4
+*.mp3
+*.wav
+test_frame*.jpg
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
