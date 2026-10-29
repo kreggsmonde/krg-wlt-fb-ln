@@ -19,6 +19,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep2_20261029_024114.mp4",
     "thumbnail_file": "thumb_ep2_20261029_024114.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 3,
+    "topic": "Die Brücken bauen: Konflikte als Chance für tiefere Nähe",
+    "date": "2026-10-29T08:39:40.947331",
+    "duration_sec": 1616.82,
+    "duration_min": 26.95,
+    "video_file": "podcast_ep3_20261029_081542.mp4",
+    "thumbnail_file": "thumb_ep3_20261029_081542.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
