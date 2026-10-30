@@ -28,5 +28,15 @@
     "video_file": "podcast_ep3_20261029_081542.mp4",
     "thumbnail_file": "thumb_ep3_20261029_081542.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 4,
+    "topic": "Die Kunst des Loslassens: Was wahre Verbundenheit wirklich bedeutet",
+    "date": "2026-10-30T08:45:39.728248",
+    "duration_sec": 1566.23,
+    "duration_min": 26.1,
+    "video_file": "podcast_ep4_20261030_082236.mp4",
+    "thumbnail_file": "thumb_ep4_20261030_082236.jpg",
+    "platform": "Facebook"
   }
 ]
