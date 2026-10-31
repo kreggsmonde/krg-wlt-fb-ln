@@ -39,6 +39,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep4_20261030_082236.mp4",
     "thumbnail_file": "thumb_ep4_20261030_082236.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 5,
+    "topic": "Die Kunst des Verzeihens: Altes loslassen, Neues wagen",
+    "date": "2026-10-31T08:34:23.729238",
+    "duration_sec": 1440.39,
+    "duration_min": 24.01,
+    "video_file": "podcast_ep5_20261031_081303.mp4",
+    "thumbnail_file": "thumb_ep5_20261031_081303.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
