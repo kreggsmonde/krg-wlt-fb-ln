@@ -49,6 +49,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep5_20261031_081303.mp4",
     "thumbnail_file": "thumb_ep5_20261031_081303.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 6,
+    "topic": "Die leise Kunst des Begehrens: Leidenschaft neu entfachen",
+    "date": "2026-11-01T09:11:26.305880",
+    "duration_sec": 1534.26,
+    "duration_min": 25.57,
+    "video_file": "podcast_ep6_20261101_085700.mp4",
+    "thumbnail_file": "thumb_ep6_20261101_085700.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
