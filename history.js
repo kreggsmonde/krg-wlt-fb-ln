@@ -59,6 +59,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep6_20261101_085700.mp4",
     "thumbnail_file": "thumb_ep6_20261101_085700.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 7,
+    "topic": "Die Kunst des Annehmens: Wie wir Nähe leben, wenn alles anders wird",
+    "date": "2026-11-02T09:31:01.237635",
+    "duration_sec": 1531.43,
+    "duration_min": 25.52,
+    "video_file": "podcast_ep7_20261102_090801.mp4",
+    "thumbnail_file": "thumb_ep7_20261102_090801.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
