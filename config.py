@@ -60,7 +60,7 @@ MAX_CHARS_PER_LINE = 40
 # Pollinations AI Prompting (Loaded from environment / Windows user variables)
 POLLINATIONS_API_KEY = os.environ.get("POLLINATIONS_API_KEY", "")
 POLLINATIONS_ENDPOINT = os.environ.get("POLLINATIONS_ENDPOINT", "https://gen.pollinations.ai/v1/chat/completions")
-POLLINATIONS_MODEL = os.environ.get("POLLINATIONS_MODEL", "gemini-fast")
+POLLINATIONS_MODEL = os.environ.get("POLLINATIONS_MODEL", "openai/gpt-5.4-nano")
 
 NICHE_PROMPT = (
     "ein fesselnder, tiefgründiger und wohltuender Podcast mit einer deutschen Psychologin und Beziehungsberaterin. "
