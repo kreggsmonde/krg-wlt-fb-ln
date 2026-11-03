@@ -69,6 +69,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep7_20261102_090801.mp4",
     "thumbnail_file": "thumb_ep7_20261102_090801.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 8,
+    "topic": "Wenn Nähe atmet: Der Zauber von Raum, Rhythmus & verlässlicher Zärtlichkeit",
+    "date": "2026-11-03T09:38:55.435447",
+    "duration_sec": 1482.25,
+    "duration_min": 24.7,
+    "video_file": "podcast_ep8_20261103_091510.mp4",
+    "thumbnail_file": "thumb_ep8_20261103_091510.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
