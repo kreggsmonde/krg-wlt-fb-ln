@@ -79,6 +79,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep8_20261103_091510.mp4",
     "thumbnail_file": "thumb_ep8_20261103_091510.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 9,
+    "topic": "Wieder gut werden: Reparaturgespräche für tiefe Nähe nach Kränkungen",
+    "date": "2026-11-04T09:10:02.122428",
+    "duration_sec": 1613.24,
+    "duration_min": 26.89,
+    "video_file": "podcast_ep9_20261104_085037.mp4",
+    "thumbnail_file": "thumb_ep9_20261104_085037.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
