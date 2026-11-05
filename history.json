@@ -88,5 +88,15 @@
     "video_file": "podcast_ep9_20261104_085037.mp4",
     "thumbnail_file": "thumb_ep9_20261104_085037.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 10,
+    "topic": "Wenn Liebe sich ändert: Bindung durch den Wandel tragen",
+    "date": "2026-11-05T09:31:43.790967",
+    "duration_sec": 1446.44,
+    "duration_min": 24.11,
+    "video_file": "podcast_ep10_20261105_091439.mp4",
+    "thumbnail_file": "thumb_ep10_20261105_091439.jpg",
+    "platform": "Facebook"
   }
 ]
