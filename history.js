@@ -99,6 +99,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep10_20261105_091439.mp4",
     "thumbnail_file": "thumb_ep10_20261105_091439.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 11,
+    "topic": "Die Kunst der sanften Grenzen: Wie Nähe sicher wird, ohne sich zu verlieren",
+    "date": "2026-11-06T09:29:35.406872",
+    "duration_sec": 1524.49,
+    "duration_min": 25.41,
+    "video_file": "podcast_ep11_20261106_090625.mp4",
+    "thumbnail_file": "thumb_ep11_20261106_090625.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
