@@ -109,6 +109,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep11_20261106_090625.mp4",
     "thumbnail_file": "thumb_ep11_20261106_090625.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 12,
+    "topic": "Die Kunst des Wartens: Sehnsucht halten, ohne dich zu verlieren",
+    "date": "2026-11-07T08:52:26.824175",
+    "duration_sec": 1601.75,
+    "duration_min": 26.7,
+    "video_file": "podcast_ep12_20261107_083352.mp4",
+    "thumbnail_file": "thumb_ep12_20261107_083352.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
