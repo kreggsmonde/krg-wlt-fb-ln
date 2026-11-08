@@ -118,5 +118,15 @@
     "video_file": "podcast_ep12_20261107_083352.mp4",
     "thumbnail_file": "thumb_ep12_20261107_083352.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 13,
+    "topic": "Wenn Worte sich verfangen: Die Kunst, Missverständnisse liebevoll zu entwirren",
+    "date": "2026-11-08T09:01:11.119423",
+    "duration_sec": 1518.95,
+    "duration_min": 25.32,
+    "video_file": "podcast_ep13_20261108_084707.mp4",
+    "thumbnail_file": "thumb_ep13_20261108_084707.jpg",
+    "platform": "Facebook"
   }
 ]
