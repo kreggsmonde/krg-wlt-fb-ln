@@ -138,5 +138,15 @@
     "video_file": "podcast_ep14_20261109_092752.mp4",
     "thumbnail_file": "thumb_ep14_20261109_092752.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 15,
+    "topic": "Die Kunst des Bitten: Bedürfnisse sagen, ohne zu kämpfen",
+    "date": "2026-11-10T09:53:01.514870",
+    "duration_sec": 1513.47,
+    "duration_min": 25.22,
+    "video_file": "podcast_ep15_20261110_093020.mp4",
+    "thumbnail_file": "thumb_ep15_20261110_093020.jpg",
+    "platform": "Facebook"
   }
 ]
