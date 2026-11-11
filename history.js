@@ -149,6 +149,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep15_20261110_093020.mp4",
     "thumbnail_file": "thumb_ep15_20261110_093020.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 16,
+    "topic": "Die Kunst der Reparatur-Routine: So baut ihr nach jedem Streit wieder Nähe auf",
+    "date": "2026-11-11T09:28:15.735157",
+    "duration_sec": 1555.38,
+    "duration_min": 25.92,
+    "video_file": "podcast_ep16_20261111_090401.mp4",
+    "thumbnail_file": "thumb_ep16_20261111_090401.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
