@@ -158,5 +158,15 @@
     "video_file": "podcast_ep16_20261111_090401.mp4",
     "thumbnail_file": "thumb_ep16_20261111_090401.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 17,
+    "topic": "Die Kunst des gemeinsamen Feierns: Wie Freude Bindung stärkt",
+    "date": "2026-11-12T09:56:27.980318",
+    "duration_sec": 1465.64,
+    "duration_min": 24.43,
+    "video_file": "podcast_ep17_20261112_093234.mp4",
+    "thumbnail_file": "thumb_ep17_20261112_093234.jpg",
+    "platform": "Facebook"
   }
 ]
