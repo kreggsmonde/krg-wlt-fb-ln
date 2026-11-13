@@ -168,5 +168,15 @@
     "video_file": "podcast_ep17_20261112_093234.mp4",
     "thumbnail_file": "thumb_ep17_20261112_093234.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 18,
+    "topic": "Die Kunst des „Wir“: Wie Paare aus Übersichten Intimität machen",
+    "date": "2026-11-13T09:42:09.875665",
+    "duration_sec": 1419.78,
+    "duration_min": 23.66,
+    "video_file": "podcast_ep18_20261113_091849.mp4",
+    "thumbnail_file": "thumb_ep18_20261113_091849.jpg",
+    "platform": "Facebook"
   }
 ]
