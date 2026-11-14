@@ -178,5 +178,15 @@
     "video_file": "podcast_ep18_20261113_091849.mp4",
     "thumbnail_file": "thumb_ep18_20261113_091849.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 19,
+    "topic": "Die Kunst der emotionalen Sicherheit: So entsteht Nähe, die bleibt",
+    "date": "2026-11-14T09:07:40.081908",
+    "duration_sec": 1649.84,
+    "duration_min": 27.5,
+    "video_file": "podcast_ep19_20261114_084800.mp4",
+    "thumbnail_file": "thumb_ep19_20261114_084800.jpg",
+    "platform": "Facebook"
   }
 ]
