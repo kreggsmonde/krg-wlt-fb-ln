@@ -189,6 +189,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep19_20261114_084800.mp4",
     "thumbnail_file": "thumb_ep19_20261114_084800.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 20,
+    "topic": "Die Kunst des Neustarts nach Entfremdung: Wenn Nähe zurückkehren will, aber Angst bremst",
+    "date": "2026-11-15T09:18:50.499304",
+    "duration_sec": 1525.84,
+    "duration_min": 25.43,
+    "video_file": "podcast_ep20_20261115_085956.mp4",
+    "thumbnail_file": "thumb_ep20_20261115_085956.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
