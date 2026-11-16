@@ -199,6 +199,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep20_20261115_085956.mp4",
     "thumbnail_file": "thumb_ep20_20261115_085956.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 21,
+    "topic": "Die Kunst der Zärtlichkeit im Alltag: Wie Liebe im Kleinen lebendig bleibt",
+    "date": "2026-11-16T09:40:17.645614",
+    "duration_sec": 1500.23,
+    "duration_min": 25.0,
+    "video_file": "podcast_ep21_20261116_091646.mp4",
+    "thumbnail_file": "thumb_ep21_20261116_091646.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
