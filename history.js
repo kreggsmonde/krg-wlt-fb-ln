@@ -209,6 +209,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep21_20261116_091646.mp4",
     "thumbnail_file": "thumb_ep21_20261116_091646.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 22,
+    "topic": "Die Kunst der stillen Hoffnung: Wie Paare Resilienz finden, wenn Liebe müde wird",
+    "date": "2026-11-17T10:51:41.401013",
+    "duration_sec": 1636.21,
+    "duration_min": 27.27,
+    "video_file": "podcast_ep22_20261117_102647.mp4",
+    "thumbnail_file": "thumb_ep22_20261117_102647.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
