@@ -219,6 +219,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep22_20261117_102647.mp4",
     "thumbnail_file": "thumb_ep22_20261117_102647.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 23,
+    "topic": "Die Kunst der Sehnsucht ohne Druck: Wie wir Nähe einladen statt fordern",
+    "date": "2026-11-18T10:19:48.022941",
+    "duration_sec": 1664.24,
+    "duration_min": 27.74,
+    "video_file": "podcast_ep23_20261118_095544.mp4",
+    "thumbnail_file": "thumb_ep23_20261118_095544.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
