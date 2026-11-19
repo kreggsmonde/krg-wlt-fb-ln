@@ -229,6 +229,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep23_20261118_095544.mp4",
     "thumbnail_file": "thumb_ep23_20261118_095544.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 24,
+    "topic": "Die Geheimnisse emotionaler Bindung",
+    "date": "2026-11-19T10:41:31.698515",
+    "duration_sec": 1583.32,
+    "duration_min": 26.39,
+    "video_file": "podcast_ep24_20261119_102235.mp4",
+    "thumbnail_file": "thumb_ep24_20261119_102235.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
