@@ -238,5 +238,15 @@
     "video_file": "podcast_ep24_20261119_102235.mp4",
     "thumbnail_file": "thumb_ep24_20261119_102235.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 25,
+    "topic": "Die Kunst des gemeinsamen Pulses: Timing, Nähe und emotionale Synchronität",
+    "date": "2026-11-20T10:11:03.158127",
+    "duration_sec": 1508.1,
+    "duration_min": 25.13,
+    "video_file": "podcast_ep25_20261120_095157.mp4",
+    "thumbnail_file": "thumb_ep25_20261120_095157.jpg",
+    "platform": "Facebook"
   }
 ]
