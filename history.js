@@ -249,6 +249,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep25_20261120_095157.mp4",
     "thumbnail_file": "thumb_ep25_20261120_095157.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 26,
+    "topic": "Die Kunst der emotionalen Reife: Nähe halten, ohne dich zu verlieren",
+    "date": "2026-11-21T09:47:10.047866",
+    "duration_sec": 1605.32,
+    "duration_min": 26.76,
+    "video_file": "podcast_ep26_20261121_092754.mp4",
+    "thumbnail_file": "thumb_ep26_20261121_092754.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
