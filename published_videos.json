@@ -258,5 +258,15 @@
     "video_file": "podcast_ep26_20261121_092754.mp4",
     "thumbnail_file": "thumb_ep26_20261121_092754.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 27,
+    "topic": "Die Kunst der emotionalen Klarheit: Aus Hoffnung wird Nähe statt Missverständnis",
+    "date": "2026-11-22T09:47:35.016509",
+    "duration_sec": 1572.25,
+    "duration_min": 26.2,
+    "video_file": "podcast_ep27_20261122_093240.mp4",
+    "thumbnail_file": "thumb_ep27_20261122_093240.jpg",
+    "platform": "Facebook"
   }
 ]
