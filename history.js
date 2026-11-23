@@ -269,6 +269,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep27_20261122_093240.mp4",
     "thumbnail_file": "thumb_ep27_20261122_093240.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 28,
+    "topic": "Die Kunst, Nähe zu stoppen: Wenn „zu viel“ auch Liebe sein will",
+    "date": "2026-11-23T10:50:16.179309",
+    "duration_sec": 1652.91,
+    "duration_min": 27.55,
+    "video_file": "podcast_ep28_20261123_103107.mp4",
+    "thumbnail_file": "thumb_ep28_20261123_103107.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
