@@ -279,6 +279,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep28_20261123_103107.mp4",
     "thumbnail_file": "thumb_ep28_20261123_103107.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 29,
+    "topic": "Die Kunst der ehrlichen Distanz: So schützt du Nähe, wenn sie gerade zu viel wird",
+    "date": "2026-11-24T12:38:36.876147",
+    "duration_sec": 1634.46,
+    "duration_min": 27.24,
+    "video_file": "podcast_ep29_20261124_121336.mp4",
+    "thumbnail_file": "thumb_ep29_20261124_121336.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
