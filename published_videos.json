@@ -288,5 +288,15 @@
     "video_file": "podcast_ep29_20261124_121336.mp4",
     "thumbnail_file": "thumb_ep29_20261124_121336.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 30,
+    "topic": "Die Kunst der emotionalen Initiative: Zärtlich den ersten Schritt wagen",
+    "date": "2026-11-25T11:24:50.834909",
+    "duration_sec": 1592.96,
+    "duration_min": 26.55,
+    "video_file": "podcast_ep30_20261125_110054.mp4",
+    "thumbnail_file": "thumb_ep30_20261125_110054.jpg",
+    "platform": "Facebook"
   }
 ]
