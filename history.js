@@ -299,6 +299,16 @@ const PODCAST_HISTORY = [
     "video_file": "podcast_ep30_20261125_110054.mp4",
     "thumbnail_file": "thumb_ep30_20261125_110054.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 31,
+    "topic": "Die Kunst des Neins, das verbindet: Grenzen setzen ohne Kälte",
+    "date": "2026-11-26T11:02:04.312788",
+    "duration_sec": 1577.58,
+    "duration_min": 26.29,
+    "video_file": "podcast_ep31_20261126_103910.mp4",
+    "thumbnail_file": "thumb_ep31_20261126_103910.jpg",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
