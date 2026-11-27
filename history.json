@@ -308,5 +308,15 @@
     "video_file": "podcast_ep31_20261126_103910.mp4",
     "thumbnail_file": "thumb_ep31_20261126_103910.jpg",
     "platform": "Facebook"
+  },
+  {
+    "episode": 32,
+    "topic": "Wenn Nähe wehtut: Umgang mit Triggern, ohne die Liebe zu verlieren",
+    "date": "2026-11-27T11:01:04.816014",
+    "duration_sec": 1662.78,
+    "duration_min": 27.71,
+    "video_file": "podcast_ep32_20261127_104055.mp4",
+    "thumbnail_file": "thumb_ep32_20261127_104055.jpg",
+    "platform": "Local"
   }
 ]
