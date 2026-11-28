@@ -318,5 +318,15 @@
     "video_file": "podcast_ep32_20261127_104055.mp4",
     "thumbnail_file": "thumb_ep32_20261127_104055.jpg",
     "platform": "Local"
+  },
+  {
+    "episode": 33,
+    "topic": "Die Kunst der sanften Wahrheit: So sagst du, was ist, ohne Nähe zu verlieren",
+    "date": "2026-11-28T10:20:16.304024",
+    "duration_sec": 1695.71,
+    "duration_min": 28.26,
+    "video_file": "podcast_ep33_20261128_100015.mp4",
+    "thumbnail_file": "thumb_ep33_20261128_100015.jpg",
+    "platform": "Local"
   }
 ]
